@@ -21,7 +21,7 @@ private OutfitInterface colorDress;
 	
 	@Override
 	public String giveAdvice() {
-		return "The ring!";
+		return "Put your ring up in the air!";
 	}
 
 }
